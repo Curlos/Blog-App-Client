@@ -1,5 +1,5 @@
 import axios from 'axios'
-const baseUrl = '/api/blogs'
+const baseUrl = 'https://blog-app-list.herokuapp.com/api/blogs'
 
 let token = null
 
